@@ -1,7 +1,6 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Home from "./pages/Home";
 import TaskAddNew from "./pages/TaskAddNew";
-import { Task } from "@mui/icons-material";
 
 function App() {
   return (
